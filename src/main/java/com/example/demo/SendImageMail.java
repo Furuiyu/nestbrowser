@@ -43,7 +43,7 @@ public class SendImageMail {
         Session session = Session.getDefaultInstance(properties, new Authenticator() {
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("2893709687@qq.com","");
+                return new PasswordAuthentication("2893709687@qq.com","woiprvoridiudghf");
             }
         });
 
@@ -54,7 +54,7 @@ public class SendImageMail {
         Transport transport = session.getTransport();
 
         //3、连接服务器，抛出异常
-        transport.connect("smtp.qq.com", "2893709687@qq.com","");
+        transport.connect("smtp.qq.com", "2893709687@qq.com","woiprvoridiudghf");
 
         //4、创建邮件
         MimeMessage mimeMessage = imageMail(session);

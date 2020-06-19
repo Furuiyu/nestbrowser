@@ -6,11 +6,17 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67a31694-ce9a-4ba6-8d2d-1b83a9d8b4db" name="默认的" comment="" />
+    <list default="true" id="67a31694-ce9a-4ba6-8d2d-1b83a9d8b4db" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -22,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1dXcXan6WAK1NEMzKKogts52DoU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,6 +39,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -71,7 +79,7 @@
       <updated>1592574918425</updated>
       <workItem from="1592574921261" duration="6000" />
       <workItem from="1592574946704" duration="211000" />
-      <workItem from="1592575170353" duration="828000" />
+      <workItem from="1592575170353" duration="1438000" />
     </task>
     <servers />
   </component>
@@ -99,22 +107,22 @@
       <screen x="0" y="0" width="1218" height="800" />
     </state>
     <state x="339" y="98" key="FileChooserDialogImpl/0.0.1218.800@0.0.1218.800" timestamp="1592575571025" />
-    <state width="1166" height="189" key="GridCell.Tab.0.bottom" timestamp="1592575813036">
+    <state width="1166" height="3" key="GridCell.Tab.0.bottom" timestamp="1592576269598">
       <screen x="0" y="0" width="1218" height="800" />
     </state>
-    <state width="1166" height="189" key="GridCell.Tab.0.bottom/0.0.1218.800@0.0.1218.800" timestamp="1592575813036" />
-    <state width="1166" height="189" key="GridCell.Tab.0.center" timestamp="1592575813036">
+    <state width="1166" height="3" key="GridCell.Tab.0.bottom/0.0.1218.800@0.0.1218.800" timestamp="1592576269598" />
+    <state width="1166" height="3" key="GridCell.Tab.0.center" timestamp="1592576269598">
       <screen x="0" y="0" width="1218" height="800" />
     </state>
-    <state width="1166" height="189" key="GridCell.Tab.0.center/0.0.1218.800@0.0.1218.800" timestamp="1592575813036" />
-    <state width="1166" height="189" key="GridCell.Tab.0.left" timestamp="1592575813036">
+    <state width="1166" height="3" key="GridCell.Tab.0.center/0.0.1218.800@0.0.1218.800" timestamp="1592576269598" />
+    <state width="1166" height="3" key="GridCell.Tab.0.left" timestamp="1592576269598">
       <screen x="0" y="0" width="1218" height="800" />
     </state>
-    <state width="1166" height="189" key="GridCell.Tab.0.left/0.0.1218.800@0.0.1218.800" timestamp="1592575813036" />
-    <state width="1166" height="189" key="GridCell.Tab.0.right" timestamp="1592575813036">
+    <state width="1166" height="3" key="GridCell.Tab.0.left/0.0.1218.800@0.0.1218.800" timestamp="1592576269598" />
+    <state width="1166" height="3" key="GridCell.Tab.0.right" timestamp="1592576269598">
       <screen x="0" y="0" width="1218" height="800" />
     </state>
-    <state width="1166" height="189" key="GridCell.Tab.0.right/0.0.1218.800@0.0.1218.800" timestamp="1592575813036" />
+    <state width="1166" height="3" key="GridCell.Tab.0.right/0.0.1218.800@0.0.1218.800" timestamp="1592576269598" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1592575738934">
       <screen x="0" y="0" width="1218" height="800" />
     </state>

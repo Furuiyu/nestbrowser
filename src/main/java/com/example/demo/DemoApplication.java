@@ -84,6 +84,7 @@ public class DemoApplication {
             }
         }).start();
 
+
         browser.loadURL(url);
 
         frame.addWindowListener(new WindowAdapter() {

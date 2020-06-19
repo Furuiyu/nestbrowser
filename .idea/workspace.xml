@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="nestbrowser_beta:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67a31694-ce9a-4ba6-8d2d-1b83a9d8b4db" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\app\java\Idea\IntelliJ IDEA 2020.1\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dXcXan6WAK1NEMzKKogts52DoU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\java_code\mycode\nestbrowser_beta\src\main\resources\META-INF" />
+      <recent name="D:\code\java_code\mycode\nestbrowser_beta\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\java_code\mycode\nestbrowser_beta" />
+      <recent name="D:\code\java_code\mycode\nestbrowser_beta\src\main\resources" />
+      <recent name="D:\code\java_code\mycode\nestbrowser_beta\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="nestbrowser_beta.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/nestbrowser_beta_jar/nestbrowser_beta.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.nestbrowser_beta.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67a31694-ce9a-4ba6-8d2d-1b83a9d8b4db" name="默认的" comment="" />
+      <created>1592574918425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592574918425</updated>
+      <workItem from="1592574921261" duration="6000" />
+      <workItem from="1592574946704" duration="211000" />
+      <workItem from="1592575170353" duration="828000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Project_Structure" timestamp="1592575424177">
+      <screen x="0" y="0" width="1218" height="800" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/0.0.1218.800@0.0.1218.800" timestamp="1592575424177" />
+    <state x="61" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592575503230">
+      <screen x="0" y="0" width="1218" height="800" />
+    </state>
+    <state x="61" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1218.800@0.0.1218.800" timestamp="1592575503230" />
+    <state x="276" y="143" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592575566695">
+      <screen x="0" y="0" width="1218" height="800" />
+    </state>
+    <state x="276" y="143" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1218.800@0.0.1218.800" timestamp="1592575566695" />
+    <state x="275" y="0" key="#webcam-capture-0.3.12.jar" timestamp="1592575103096">
+      <screen x="0" y="0" width="1218" height="800" />
+    </state>
+    <state x="275" y="0" key="#webcam-capture-0.3.12.jar/0.0.1218.800@0.0.1218.800" timestamp="1592575103096" />
+    <state x="339" y="98" key="FileChooserDialogImpl" timestamp="1592575571025">
+      <screen x="0" y="0" width="1218" height="800" />
+    </state>
+    <state x="339" y="98" key="FileChooserDialogImpl/0.0.1218.800@0.0.1218.800" timestamp="1592575571025" />
+    <state width="1166" height="189" key="GridCell.Tab.0.bottom" timestamp="1592575813036">
+      <screen x="0" y="0" width="1218" height="800" />
+    </state>
+    <state width="1166" height="189" key="GridCell.Tab.0.bottom/0.0.1218.800@0.0.1218.800" timestamp="1592575813036" />
+    <state width="1166" height="189" key="GridCell.Tab.0.center" timestamp="1592575813036">
+      <screen x="0" y="0" width="1218" height="800" />
+    </state>
+    <state width="1166" height="189" key="GridCell.Tab.0.center/0.0.1218.800@0.0.1218.800" timestamp="1592575813036" />
+    <state width="1166" height="189" key="GridCell.Tab.0.left" timestamp="1592575813036">
+      <screen x="0" y="0" width="1218" height="800" />
+    </state>
+    <state width="1166" height="189" key="GridCell.Tab.0.left/0.0.1218.800@0.0.1218.800" timestamp="1592575813036" />
+    <state width="1166" height="189" key="GridCell.Tab.0.right" timestamp="1592575813036">
+      <screen x="0" y="0" width="1218" height="800" />
+    </state>
+    <state width="1166" height="189" key="GridCell.Tab.0.right/0.0.1218.800@0.0.1218.800" timestamp="1592575813036" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1592575738934">
+      <screen x="0" y="0" width="1218" height="800" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1218.800@0.0.1218.800" timestamp="1592575738934" />
+  </component>
+</project>

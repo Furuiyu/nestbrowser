@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nestbrowser_beta:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nestbrowser_beta_jar</output-path>
+    <root id="archive" name="nestbrowser_beta.jar">
+      <element id="module-output" name="nestbrowser_beta" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../maven_repository/com/github/sarxos/webcam-capture/0.3.12/webcam-capture-0.3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../maven_repository/javax/activation/activation/1.1/activation-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../maven_repository/com/nativelibs4java/bridj/0.7.0/bridj-0.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../maven_repository/javax/mail/mail/1.4.7/mail-1.4.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../maven_repository/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mail-1.4.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jxbrowser-win64-6.22.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jxbrowser-6.22.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/webcam-capture-0.3.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

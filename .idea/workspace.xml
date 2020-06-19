@@ -5,10 +5,27 @@
       <artifact name="nestbrowser_beta:jar" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="67a31694-ce9a-4ba6-8d2d-1b83a9d8b4db" name="默认的" comment="">
+    <list default="true" id="67a31694-ce9a-4ba6-8d2d-1b83a9d8b4db" name="默认的" comment="修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +33,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -28,7 +46,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1dXcXan6WAK1NEMzKKogts52DoU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +59,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -81,10 +103,25 @@
       <workItem from="1592574946704" duration="211000" />
       <workItem from="1592575170353" duration="1438000" />
     </task>
+    <task id="LOCAL-00001" summary="修改">
+      <created>1592577730973</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592577730973</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="0" key="#Project_Structure" timestamp="1592575424177">
@@ -103,6 +140,10 @@
       <screen x="0" y="0" width="1218" height="800" />
     </state>
     <state x="275" y="0" key="#webcam-capture-0.3.12.jar/0.0.1218.800@0.0.1218.800" timestamp="1592575103096" />
+    <state x="93" y="93" width="1031" height="613" key="DiffContextDialog" timestamp="1592577881761">
+      <screen x="0" y="0" width="1218" height="800" />
+    </state>
+    <state x="93" y="93" width="1031" height="613" key="DiffContextDialog/0.0.1218.800@0.0.1218.800" timestamp="1592577881761" />
     <state x="339" y="98" key="FileChooserDialogImpl" timestamp="1592575571025">
       <screen x="0" y="0" width="1218" height="800" />
     </state>
@@ -123,9 +164,25 @@
       <screen x="0" y="0" width="1218" height="800" />
     </state>
     <state width="1166" height="3" key="GridCell.Tab.0.right/0.0.1218.800@0.0.1218.800" timestamp="1592576269598" />
+    <state x="289" y="32" key="RollbackChangesDialog" timestamp="1592577815843">
+      <screen x="0" y="0" width="1218" height="800" />
+    </state>
+    <state x="289" y="32" key="RollbackChangesDialog/0.0.1218.800@0.0.1218.800" timestamp="1592577815843" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1592575738934">
       <screen x="0" y="0" width="1218" height="800" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1218.800@0.0.1218.800" timestamp="1592575738934" />
+    <state x="477" y="297" key="VCS.EditChangelistDialog" timestamp="1592577259831">
+      <screen x="0" y="0" width="1218" height="800" />
+    </state>
+    <state x="477" y="297" key="VCS.EditChangelistDialog/0.0.1218.800@0.0.1218.800" timestamp="1592577259831" />
+    <state x="102" y="68" key="Vcs.Push.Dialog.v2" timestamp="1592577862699">
+      <screen x="0" y="0" width="1218" height="800" />
+    </state>
+    <state x="102" y="68" key="Vcs.Push.Dialog.v2/0.0.1218.800@0.0.1218.800" timestamp="1592577862699" />
+    <state x="370" y="294" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592577660396">
+      <screen x="0" y="0" width="1218" height="800" />
+    </state>
+    <state x="370" y="294" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1218.800@0.0.1218.800" timestamp="1592577660396" />
   </component>
 </project>
